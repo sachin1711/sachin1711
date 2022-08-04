@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Sharma
-- 👀 I’m interested in programming, mathematics, finance, data science
-- 🌱 I’m currently learning machine learning, data science
+- 👀 I’m interested in Programming, Mathematics, Finance, Data Science
+- 🌱 I’m currently learning data science from WQU Apllied Data Science Lab
 - 📫 sachin.sh926@gmail.com
 
 <!---
